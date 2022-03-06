@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown if[guillaume] hello betty
+--from=guillaume chown hello betty
