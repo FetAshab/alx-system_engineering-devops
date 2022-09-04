@@ -2,7 +2,7 @@
 # prints the message infinity and beyon for
 # eternity unless it is killed, not so ethernal after all :)
 
-while true;
+while :;
 do
 	echo "To infinity and beyond";
 	sleep 2
